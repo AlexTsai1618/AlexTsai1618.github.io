@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/purple_model",
+    "result": {"data":{"markdownRemark":{"html":"<p>This is a web application for image processing. It is based on Flask and Celery. The backend is written in Python and the frontend is written in Next.js.</p>\n<p>The main goal of this project is to demonstrate the how model poisoning attack conduct and the defense strategy.</p>\n<h2>Key Feature</h2>\n<ul>\n<li>User-friendly interface</li>\n<li>Parallel Task Distribution</li>\n<li>Caching the job with redis</li>\n</ul>","frontmatter":{"listName":"📜 /PurpleModel","nameOfClass":"projects-items","popupGithubLink":"https://github.com/AlexTsai1618/Purple_model","popupImageAlt":"App screenshot","popupImageSrc":"Purple_model.png","popupLiveLink":null,"techIcons":["python","flask","celery","redis"],"title":"Purple Model","video":"false"}}},"pageContext":{"slug":"projects/purple_model"}},
+    "staticQueryHashes": ["4202924991"]}

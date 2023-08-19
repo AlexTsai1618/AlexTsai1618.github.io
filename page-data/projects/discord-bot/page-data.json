@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/discord-bot",
+    "result": {"data":{"markdownRemark":{"html":"<p>The bot searches for job listings on LinkedIn based on provided job titles. It also scrapes job information from a source, possibly named Riversmall. The scraped data is processed, parsed, and then sent to a LinkedIn bot for updates</p>\n<h2>Key Feature</h2>\n<ul>\n<li>collect information from River Small Websites and LinkedIn API</li>\n<li>Using github action to schedule launch the bot services.</li>\n</ul>","frontmatter":{"listName":"🤖 /Discord Jobs Search Bot","nameOfClass":"projects-items miniProjects","popupGithubLink":"https://github.com/AlexTsai1618/Discord_jobs_information_bot","popupImageAlt":"App screenshot","popupImageSrc":"https://github.com/AlexTsai1618/Discord_jobs_information_bot/raw/main/jobs.png","popupLiveLink":null,"techIcons":["golang","kalilinux"],"title":"Discord Jobs Search Bot","video":"false"}}},"pageContext":{"slug":"projects/discord-bot"}},
+    "staticQueryHashes": ["4202924991"]}
